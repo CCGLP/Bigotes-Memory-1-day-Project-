@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: c4d124e7583f24b7586345c449eeddda
+timeCreated: 1479895796
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coleccion-de-bigotes-de-movember_23-2147526774_0
+    21300002: coleccion-de-bigotes-de-movember_23-2147526774_1
+    21300004: coleccion-de-bigotes-de-movember_23-2147526774_2
+    21300006: coleccion-de-bigotes-de-movember_23-2147526774_3
+    21300008: coleccion-de-bigotes-de-movember_23-2147526774_4
+    21300010: coleccion-de-bigotes-de-movember_23-2147526774_5
+    21300012: coleccion-de-bigotes-de-movember_23-2147526774_6
+    21300014: coleccion-de-bigotes-de-movember_23-2147526774_7
+    21300016: coleccion-de-bigotes-de-movember_23-2147526774_8
+    21300018: coleccion-de-bigotes-de-movember_23-2147526774_9
+    21300020: coleccion-de-bigotes-de-movember_23-2147526774_10
+    21300022: coleccion-de-bigotes-de-movember_23-2147526774_11
+    21300024: coleccion-de-bigotes-de-movember_23-2147526774_12
+    21300026: coleccion-de-bigotes-de-movember_23-2147526774_13
+    21300028: coleccion-de-bigotes-de-movember_23-2147526774_14
+    21300030: coleccion-de-bigotes-de-movember_23-2147526774_15
+    21300032: coleccion-de-bigotes-de-movember_23-2147526774_16
+    21300034: coleccion-de-bigotes-de-movember_23-2147526774_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521.6667
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 521.6667
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 521.6667
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417.66666
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 417.66666
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 417.66666
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313.66666
+        width: 208.66667
+        height: 104.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.49999985}
+      border: {x: 0, y: 9, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 313.66666
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 313.66666
+        width: 208.66669
+        height: 104.33334
+      alignment: 0
+      pivot: {x: 0.5000001, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 209
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 234
+        width: 209
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 241
+        width: 209
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105.666664
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 105.666664
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 105.666664
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666641
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1.6666641
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coleccion-de-bigotes-de-movember_23-2147526774_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1.6666641
+        width: 208.66667
+        height: 104.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
